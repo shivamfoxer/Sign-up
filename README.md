@@ -1,0 +1,6 @@
+# Sign-up
+THIS LINK IS USED TO STORE DATA OF SIGN UP PAGE
+
+https://docs.google.com/spreadsheets/d/1iu3dW-BSm40xgweHwXg2Rv6sX0M4Hcj3D0CDf5IOOEU/edit?usp=sharing
+
+AN AUTO GENERATED MAIL IS SENT TO THE EMAIL-ID WHICH IS FILLED IN SIGN UP.
